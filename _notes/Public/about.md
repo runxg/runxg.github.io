@@ -1,5 +1,7 @@
 ---
 title: About
+notetype : feed
+date : 11-05-2022
 ---
 
 Runxuan Gao  /  高　潤宣（コウ　ジュンセン）  
