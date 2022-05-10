@@ -1,6 +1,5 @@
 ---
 title: About
-notetype : feed
 date : 11-05-2022
 ---
 
