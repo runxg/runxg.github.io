@@ -90,6 +90,15 @@ plugins:
   - jekyll-sitemap 
   - jekyll-tidy
 
+######################
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+##################
+
 ## Enable _notes Collection 
 collections:
     notes:
